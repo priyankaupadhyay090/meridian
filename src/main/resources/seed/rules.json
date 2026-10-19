@@ -1,0 +1,159 @@
+[
+  {
+    "id": "r-default",
+    "match": {
+      "destinationPrefix": "0",
+      "serviceLevel": null,
+      "weightBand": null,
+      "customerTier": null
+    },
+    "priority": 500,
+    "carrierService": "DHL_PAKET"
+  },
+  {
+    "id": "r-1-standard",
+    "match": {
+      "destinationPrefix": "1",
+      "serviceLevel": null,
+      "weightBand": null,
+      "customerTier": null
+    },
+    "priority": 500,
+    "carrierService": "DHL_PAKET"
+  },
+  {
+    "id": "r-2-standard",
+    "match": {
+      "destinationPrefix": "2",
+      "serviceLevel": null,
+      "weightBand": null,
+      "customerTier": null
+    },
+    "priority": 500,
+    "carrierService": "DHL_PAKET"
+  },
+  {
+    "id": "r-3-standard",
+    "match": {
+      "destinationPrefix": "3",
+      "serviceLevel": null,
+      "weightBand": null,
+      "customerTier": null
+    },
+    "priority": 500,
+    "carrierService": "DHL_PAKET"
+  },
+  {
+    "id": "r-4-standard",
+    "match": {
+      "destinationPrefix": "4",
+      "serviceLevel": null,
+      "weightBand": null,
+      "customerTier": null
+    },
+    "priority": 500,
+    "carrierService": "DHL_PAKET"
+  },
+  {
+    "id": "r-5-standard",
+    "match": {
+      "destinationPrefix": "5",
+      "serviceLevel": null,
+      "weightBand": null,
+      "customerTier": null
+    },
+    "priority": 500,
+    "carrierService": "DHL_PAKET"
+  },
+  {
+    "id": "r-6-standard",
+    "match": {
+      "destinationPrefix": "6",
+      "serviceLevel": null,
+      "weightBand": null,
+      "customerTier": null
+    },
+    "priority": 500,
+    "carrierService": "DHL_PAKET"
+  },
+  {
+    "id": "r-7-standard",
+    "match": {
+      "destinationPrefix": "7",
+      "serviceLevel": null,
+      "weightBand": null,
+      "customerTier": null
+    },
+    "priority": 500,
+    "carrierService": "DHL_PAKET"
+  },
+  {
+    "id": "r-8-standard",
+    "match": {
+      "destinationPrefix": "8",
+      "serviceLevel": null,
+      "weightBand": null,
+      "customerTier": null
+    },
+    "priority": 500,
+    "carrierService": "DHL_PAKET"
+  },
+  {
+    "id": "r-9-standard",
+    "match": {
+      "destinationPrefix": "9",
+      "serviceLevel": null,
+      "weightBand": null,
+      "customerTier": null
+    },
+    "priority": 500,
+    "carrierService": "DHL_PAKET"
+  },
+  {
+    "id": "r-1-express",
+    "match": {
+      "destinationPrefix": "1",
+      "serviceLevel": "EXPRESS",
+      "weightBand": null,
+      "customerTier": null
+    },
+    "priority": 100,
+    "carrierService": "DPD_EXPRESS"
+  },
+  {
+    "id": "r-10-express",
+    "match": {
+      "destinationPrefix": "10",
+      "serviceLevel": "EXPRESS",
+      "customerTier": "PREMIUM",
+      "weightBand": null
+    },
+    "priority": 50,
+    "carrierService": "GLS_EXPRESS"
+  },
+  {
+    "id": "r-2-heavy",
+    "match": {
+      "destinationPrefix": "2",
+      "weightBand": {
+        "minGrams": 20000,
+        "maxGrams": 31500
+      },
+      "serviceLevel": null,
+      "customerTier": null
+    },
+    "priority": 100,
+    "carrierService": "DPD_CLASSIC"
+  },
+  {
+    "id": "r-8-economy",
+    "match": {
+      "destinationPrefix": "8",
+      "serviceLevel": "ECONOMY",
+      "weightBand": null,
+      "customerTier": null
+    },
+    "priority": 100,
+    "carrierService": "DHL_PAECKCHEN"
+  }
+]

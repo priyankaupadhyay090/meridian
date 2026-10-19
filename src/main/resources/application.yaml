@@ -1,0 +1,52 @@
+spring:
+  application:
+    name: meridian-commerce
+  kafka:
+    bootstrap-servers: ${KAFKA_BOOTSTRAP:localhost:9092}
+    consumer:
+      group-id: meridian-parcels
+      auto-offset-reset: earliest
+      key-deserializer: org.apache.kafka.common.serialization.StringDeserializer
+      value-deserializer: org.apache.kafka.common.serialization.StringDeserializer
+    producer:
+      key-serializer: org.apache.kafka.common.serialization.StringSerializer
+      value-serializer: org.apache.kafka.common.serialization.StringSerializer
+      acks: all
+      properties:
+        enable.idempotence: true
+    listener:
+      auto-startup: ${MERIDIAN_KAFKA:false}
+  mvc:
+    problemdetails:
+      enabled: true
+  servlet:
+    multipart:
+      max-file-size: 5MB
+      max-request-size: 5MB
+
+meridian:
+  demo:
+    password: ${MERIDIAN_DEMO_PASSWORD:demo}
+  model:
+    provider: ${MERIDIAN_MODEL_PROVIDER:none}
+    ollama:
+      url: ${OLLAMA_URL:http://localhost:11434}
+      model: ${MERIDIAN_MODEL:qwen2.5:7b}
+  storage:
+    provider: ${MERIDIAN_STORAGE:memory}
+    s3:
+      bucket: ${MERIDIAN_S3_BUCKET:meridian-contracts}
+      region: ${AWS_REGION:eu-central-1}
+      endpoint: ${MERIDIAN_S3_ENDPOINT:}
+  kafka:
+    enabled: ${MERIDIAN_KAFKA:false}
+    topic: parcel-events
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,prometheus
+  metrics:
+    tags:
+      application: meridian

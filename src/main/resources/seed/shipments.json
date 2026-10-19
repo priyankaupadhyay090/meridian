@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "s-001",
+    "profile": {
+      "destinationPostcode": "22260",
+      "serviceLevel": "ECONOMY",
+      "weightGrams": 30000,
+      "customerTier": "BASIC"
+    }
+  },
+  {
+    "id": "s-002",
+    "profile": {
+      "destinationPostcode": "22908",
+      "serviceLevel": "STANDARD",
+      "weightGrams": 400,
+      "customerTier": "BASIC"
+    }
+  },
+  {
+    "id": "s-003",
+    "profile": {
+      "destinationPostcode": "28613",
+      "serviceLevel": "ECONOMY",
+      "weightGrams": 12000,
+      "customerTier": "PREMIUM"
+    }
+  },
+  {
+    "id": "s-004",
+    "profile": {
+      "destinationPostcode": "10913",
+      "serviceLevel": "ECONOMY",
+      "weightGrams": 12000,
+      "customerTier": "PREMIUM"
+    }
+  },
+  {
+    "id": "s-005",
+    "profile": {
+      "destinationPostcode": "10308",
+      "serviceLevel": "STANDARD",
+      "weightGrams": 2500,
+      "customerTier": "PREMIUM"
+    }
+  },
+  {
+    "id": "s-006",
+    "profile": {
+      "destinationPostcode": "12819",
+      "serviceLevel": "STANDARD",
+      "weightGrams": 12000,
+      "customerTier": "BASIC"
+    }
+  },
+  {
+    "id": "s-007",
+    "profile": {
+      "destinationPostcode": "10993",
+      "serviceLevel": "STANDARD",
+      "weightGrams": 400,
+      "customerTier": "BASIC"
+    }
+  },
+  {
+    "id": "s-008",
+    "profile": {
+      "destinationPostcode": "60093",
+      "serviceLevel": "EXPRESS",
+      "weightGrams": 22000,
+      "customerTier": "PREMIUM"
+    }
+  },
+  {
+    "id": "s-009",
+    "profile": {
+      "destinationPostcode": "81579",
+      "serviceLevel": "EXPRESS",
+      "weightGrams": 2500,
+      "customerTier": "BUSINESS"
+    }
+  },
+  {
+    "id": "s-010",
+    "profile": {
+      "destinationPostcode": "14231",
+      "serviceLevel": "STANDARD",
+      "weightGrams": 12000,
+      "customerTier": "PREMIUM"
+    }
+  },
+  {
+    "id": "s-011",
+    "profile": {
+      "destinationPostcode": "22749",
+      "serviceLevel": "ECONOMY",
+      "weightGrams": 400,
+      "customerTier": "PREMIUM"
+    }
+  },
+  {
+    "id": "s-012",
+    "profile": {
+      "destinationPostcode": "12527",
+      "serviceLevel": "EXPRESS",
+      "weightGrams": 400,
+      "customerTier": "BASIC"
+    }
+  },
+  {
+    "id": "s-013",
+    "profile": {
+      "destinationPostcode": "81895",
+      "serviceLevel": "STANDARD",
+      "weightGrams": 22000,
+      "customerTier": "BUSINESS"
+    }
+  },
+  {
+    "id": "s-014",
+    "profile": {
+      "destinationPostcode": "60797",
+      "serviceLevel": "ECONOMY",
+      "weightGrams": 30000,
+      "customerTier": "BASIC"
+    }
+  },
+  {
+    "id": "s-015",
+    "profile": {
+      "destinationPostcode": "20710",
+      "serviceLevel": "STANDARD",
+      "weightGrams": 22000,
+      "customerTier": "PREMIUM"
+    }
+  },
+  {
+    "id": "s-016",
+    "profile": {
+      "destinationPostcode": "20650",
+      "serviceLevel": "EXPRESS",
+      "weightGrams": 2500,
+      "customerTier": "BASIC"
+    }
+  },
+  {
+    "id": "s-017",
+    "profile": {
+      "destinationPostcode": "60170",
+      "serviceLevel": "STANDARD",
+      "weightGrams": 30000,
+      "customerTier": "BUSINESS"
+    }
+  },
+  {
+    "id": "s-018",
+    "profile": {
+      "destinationPostcode": "12366",
+      "serviceLevel": "EXPRESS",
+      "weightGrams": 400,
+      "customerTier": "BASIC"
+    }
+  },
+  {
+    "id": "s-019",
+    "profile": {
+      "destinationPostcode": "40684",
+      "serviceLevel": "STANDARD",
+      "weightGrams": 30000,
+      "customerTier": "PREMIUM"
+    }
+  },
+  {
+    "id": "s-020",
+    "profile": {
+      "destinationPostcode": "90846",
+      "serviceLevel": "STANDARD",
+      "weightGrams": 22000,
+      "customerTier": "PREMIUM"
+    }
+  },
+  {
+    "id": "s-021",
+    "profile": {
+      "destinationPostcode": "14212",
+      "serviceLevel": "STANDARD",
+      "weightGrams": 900,
+      "customerTier": "BASIC"
+    }
+  },
+  {
+    "id": "s-022",
+    "profile": {
+      "destinationPostcode": "10792",
+      "serviceLevel": "STANDARD",
+      "weightGrams": 2500,
+      "customerTier": "BASIC"
+    }
+  },
+  {
+    "id": "s-023",
+    "profile": {
+      "destinationPostcode": "12685",
+      "serviceLevel": "STANDARD",
+      "weightGrams": 900,
+      "customerTier": "BASIC"
+    }
+  },
+  {
+    "id": "s-024",
+    "profile": {
+      "destinationPostcode": "40866",
+      "serviceLevel": "EXPRESS",
+      "weightGrams": 5000,
+      "customerTier": "BASIC"
+    }
+  },
+  {
+    "id": "s-025",
+    "profile": {
+      "destinationPostcode": "40603",
+      "serviceLevel": "ECONOMY",
+      "weightGrams": 900,
+      "customerTier": "PREMIUM"
+    }
+  },
+  {
+    "id": "s-026",
+    "profile": {
+      "destinationPostcode": "12159",
+      "serviceLevel": "ECONOMY",
+      "weightGrams": 400,
+      "customerTier": "BASIC"
+    }
+  },
+  {
+    "id": "s-027",
+    "profile": {
+      "destinationPostcode": "60281",
+      "serviceLevel": "STANDARD",
+      "weightGrams": 12000,
+      "customerTier": "BASIC"
+    }
+  },
+  {
+    "id": "s-028",
+    "profile": {
+      "destinationPostcode": "10396",
+      "serviceLevel": "STANDARD",
+      "weightGrams": 22000,
+      "customerTier": "BUSINESS"
+    }
+  },
+  {
+    "id": "s-029",
+    "profile": {
+      "destinationPostcode": "22957",
+      "serviceLevel": "ECONOMY",
+      "weightGrams": 400,
+      "customerTier": "PREMIUM"
+    }
+  },
+  {
+    "id": "s-030",
+    "profile": {
+      "destinationPostcode": "40774",
+      "serviceLevel": "ECONOMY",
+      "weightGrams": 900,
+      "customerTier": "BASIC"
+    }
+  },
+  {
+    "id": "s-031",
+    "profile": {
+      "destinationPostcode": "80547",
+      "serviceLevel": "STANDARD",
+      "weightGrams": 12000,
+      "customerTier": "BASIC"
+    }
+  },
+  {
+    "id": "s-032",
+    "profile": {
+      "destinationPostcode": "14852",
+      "serviceLevel": "ECONOMY",
+      "weightGrams": 30000,
+      "customerTier": "BUSINESS"
+    }
+  },
+  {
+    "id": "s-033",
+    "profile": {
+      "destinationPostcode": "70148",
+      "serviceLevel": "STANDARD",
+      "weightGrams": 900,
+      "customerTier": "BUSINESS"
+    }
+  },
+  {
+    "id": "s-034",
+    "profile": {
+      "destinationPostcode": "81388",
+      "serviceLevel": "STANDARD",
+      "weightGrams": 22000,
+      "customerTier": "BASIC"
+    }
+  },
+  {
+    "id": "s-035",
+    "profile": {
+      "destinationPostcode": "60336",
+      "serviceLevel": "STANDARD",
+      "weightGrams": 900,
+      "customerTier": "PREMIUM"
+    }
+  },
+  {
+    "id": "s-036",
+    "profile": {
+      "destinationPostcode": "22004",
+      "serviceLevel": "EXPRESS",
+      "weightGrams": 2500,
+      "customerTier": "BASIC"
+    }
+  },
+  {
+    "id": "s-037",
+    "profile": {
+      "destinationPostcode": "80957",
+      "serviceLevel": "STANDARD",
+      "weightGrams": 2500,
+      "customerTier": "BASIC"
+    }
+  },
+  {
+    "id": "s-038",
+    "profile": {
+      "destinationPostcode": "14137",
+      "serviceLevel": "STANDARD",
+      "weightGrams": 2500,
+      "customerTier": "BASIC"
+    }
+  },
+  {
+    "id": "s-039",
+    "profile": {
+      "destinationPostcode": "40990",
+      "serviceLevel": "EXPRESS",
+      "weightGrams": 22000,
+      "customerTier": "BUSINESS"
+    }
+  },
+  {
+    "id": "s-040",
+    "profile": {
+      "destinationPostcode": "81116",
+      "serviceLevel": "STANDARD",
+      "weightGrams": 5000,
+      "customerTier": "BASIC"
+    }
+  },
+  {
+    "id": "s-041",
+    "profile": {
+      "destinationPostcode": "28516",
+      "serviceLevel": "EXPRESS",
+      "weightGrams": 5000,
+      "customerTier": "BASIC"
+    }
+  },
+  {
+    "id": "s-042",
+    "profile": {
+      "destinationPostcode": "80222",
+      "serviceLevel": "ECONOMY",
+      "weightGrams": 900,
+      "customerTier": "PREMIUM"
+    }
+  },
+  {
+    "id": "s-043",
+    "profile": {
+      "destinationPostcode": "81299",
+      "serviceLevel": "EXPRESS",
+      "weightGrams": 22000,
+      "customerTier": "BUSINESS"
+    }
+  },
+  {
+    "id": "s-044",
+    "profile": {
+      "destinationPostcode": "12882",
+      "serviceLevel": "ECONOMY",
+      "weightGrams": 400,
+      "customerTier": "BASIC"
+    }
+  },
+  {
+    "id": "s-045",
+    "profile": {
+      "destinationPostcode": "50263",
+      "serviceLevel": "STANDARD",
+      "weightGrams": 400,
+      "customerTier": "BUSINESS"
+    }
+  },
+  {
+    "id": "s-046",
+    "profile": {
+      "destinationPostcode": "14483",
+      "serviceLevel": "STANDARD",
+      "weightGrams": 2500,
+      "customerTier": "PREMIUM"
+    }
+  },
+  {
+    "id": "s-047",
+    "profile": {
+      "destinationPostcode": "90205",
+      "serviceLevel": "EXPRESS",
+      "weightGrams": 22000,
+      "customerTier": "PREMIUM"
+    }
+  },
+  {
+    "id": "s-048",
+    "profile": {
+      "destinationPostcode": "90828",
+      "serviceLevel": "STANDARD",
+      "weightGrams": 12000,
+      "customerTier": "BASIC"
+    }
+  },
+  {
+    "id": "s-049",
+    "profile": {
+      "destinationPostcode": "90729",
+      "serviceLevel": "ECONOMY",
+      "weightGrams": 30000,
+      "customerTier": "BASIC"
+    }
+  },
+  {
+    "id": "s-050",
+    "profile": {
+      "destinationPostcode": "12279",
+      "serviceLevel": "ECONOMY",
+      "weightGrams": 12000,
+      "customerTier": "BASIC"
+    }
+  },
+  {
+    "id": "s-051",
+    "profile": {
+      "destinationPostcode": "22888",
+      "serviceLevel": "EXPRESS",
+      "weightGrams": 30000,
+      "customerTier": "BASIC"
+    }
+  },
+  {
+    "id": "s-052",
+    "profile": {
+      "destinationPostcode": "50033",
+      "serviceLevel": "STANDARD",
+      "weightGrams": 400,
+      "customerTier": "BASIC"
+    }
+  },
+  {
+    "id": "s-053",
+    "profile": {
+      "destinationPostcode": "50780",
+      "serviceLevel": "ECONOMY",
+      "weightGrams": 5000,
+      "customerTier": "BUSINESS"
+    }
+  },
+  {
+    "id": "s-054",
+    "profile": {
+      "destinationPostcode": "60898",
+      "serviceLevel": "STANDARD",
+      "weightGrams": 22000,
+      "customerTier": "BUSINESS"
+    }
+  },
+  {
+    "id": "s-055",
+    "profile": {
+      "destinationPostcode": "40887",
+      "serviceLevel": "STANDARD",
+      "weightGrams": 22000,
+      "customerTier": "BUSINESS"
+    }
+  },
+  {
+    "id": "s-056",
+    "profile": {
+      "destinationPostcode": "50372",
+      "serviceLevel": "EXPRESS",
+      "weightGrams": 400,
+      "customerTier": "PREMIUM"
+    }
+  },
+  {
+    "id": "s-057",
+    "profile": {
+      "destinationPostcode": "40513",
+      "serviceLevel": "EXPRESS",
+      "weightGrams": 400,
+      "customerTier": "BASIC"
+    }
+  },
+  {
+    "id": "s-058",
+    "profile": {
+      "destinationPostcode": "70412",
+      "serviceLevel": "STANDARD",
+      "weightGrams": 900,
+      "customerTier": "BUSINESS"
+    }
+  },
+  {
+    "id": "s-059",
+    "profile": {
+      "destinationPostcode": "12731",
+      "serviceLevel": "EXPRESS",
+      "weightGrams": 5000,
+      "customerTier": "BASIC"
+    }
+  },
+  {
+    "id": "s-060",
+    "profile": {
+      "destinationPostcode": "70326",
+      "serviceLevel": "EXPRESS",
+      "weightGrams": 2500,
+      "customerTier": "PREMIUM"
+    }
+  },
+  {
+    "id": "s-061",
+    "profile": {
+      "destinationPostcode": "14551",
+      "serviceLevel": "STANDARD",
+      "weightGrams": 400,
+      "customerTier": "BUSINESS"
+    }
+  },
+  {
+    "id": "s-062",
+    "profile": {
+      "destinationPostcode": "50770",
+      "serviceLevel": "EXPRESS",
+      "weightGrams": 2500,
+      "customerTier": "BUSINESS"
+    }
+  },
+  {
+    "id": "s-063",
+    "profile": {
+      "destinationPostcode": "50113",
+      "serviceLevel": "ECONOMY",
+      "weightGrams": 400,
+      "customerTier": "BUSINESS"
+    }
+  },
+  {
+    "id": "s-064",
+    "profile": {
+      "destinationPostcode": "20024",
+      "serviceLevel": "STANDARD",
+      "weightGrams": 30000,
+      "customerTier": "PREMIUM"
+    }
+  },
+  {
+    "id": "s-065",
+    "profile": {
+      "destinationPostcode": "90462",
+      "serviceLevel": "EXPRESS",
+      "weightGrams": 22000,
+      "customerTier": "BUSINESS"
+    }
+  },
+  {
+    "id": "s-066",
+    "profile": {
+      "destinationPostcode": "10402",
+      "serviceLevel": "EXPRESS",
+      "weightGrams": 400,
+      "customerTier": "BUSINESS"
+    }
+  },
+  {
+    "id": "s-067",
+    "profile": {
+      "destinationPostcode": "10141",
+      "serviceLevel": "STANDARD",
+      "weightGrams": 400,
+      "customerTier": "BUSINESS"
+    }
+  },
+  {
+    "id": "s-068",
+    "profile": {
+      "destinationPostcode": "90170",
+      "serviceLevel": "STANDARD",
+      "weightGrams": 12000,
+      "customerTier": "PREMIUM"
+    }
+  },
+  {
+    "id": "s-069",
+    "profile": {
+      "destinationPostcode": "20920",
+      "serviceLevel": "STANDARD",
+      "weightGrams": 400,
+      "customerTier": "BASIC"
+    }
+  },
+  {
+    "id": "s-070",
+    "profile": {
+      "destinationPostcode": "20023",
+      "serviceLevel": "STANDARD",
+      "weightGrams": 22000,
+      "customerTier": "BUSINESS"
+    }
+  },
+  {
+    "id": "s-071",
+    "profile": {
+      "destinationPostcode": "50347",
+      "serviceLevel": "STANDARD",
+      "weightGrams": 2500,
+      "customerTier": "BUSINESS"
+    }
+  },
+  {
+    "id": "s-072",
+    "profile": {
+      "destinationPostcode": "81040",
+      "serviceLevel": "ECONOMY",
+      "weightGrams": 400,
+      "customerTier": "BASIC"
+    }
+  },
+  {
+    "id": "s-073",
+    "profile": {
+      "destinationPostcode": "50737",
+      "serviceLevel": "ECONOMY",
+      "weightGrams": 22000,
+      "customerTier": "PREMIUM"
+    }
+  },
+  {
+    "id": "s-074",
+    "profile": {
+      "destinationPostcode": "70786",
+      "serviceLevel": "STANDARD",
+      "weightGrams": 22000,
+      "customerTier": "BASIC"
+    }
+  },
+  {
+    "id": "s-075",
+    "profile": {
+      "destinationPostcode": "14532",
+      "serviceLevel": "EXPRESS",
+      "weightGrams": 2500,
+      "customerTier": "BASIC"
+    }
+  },
+  {
+    "id": "s-076",
+    "profile": {
+      "destinationPostcode": "90201",
+      "serviceLevel": "STANDARD",
+      "weightGrams": 5000,
+      "customerTier": "BASIC"
+    }
+  },
+  {
+    "id": "s-077",
+    "profile": {
+      "destinationPostcode": "10168",
+      "serviceLevel": "STANDARD",
+      "weightGrams": 12000,
+      "customerTier": "BASIC"
+    }
+  },
+  {
+    "id": "s-078",
+    "profile": {
+      "destinationPostcode": "80407",
+      "serviceLevel": "STANDARD",
+      "weightGrams": 900,
+      "customerTier": "BUSINESS"
+    }
+  },
+  {
+    "id": "s-079",
+    "profile": {
+      "destinationPostcode": "40045",
+      "serviceLevel": "STANDARD",
+      "weightGrams": 12000,
+      "customerTier": "BUSINESS"
+    }
+  },
+  {
+    "id": "s-080",
+    "profile": {
+      "destinationPostcode": "14043",
+      "serviceLevel": "STANDARD",
+      "weightGrams": 900,
+      "customerTier": "BASIC"
+    }
+  },
+  {
+    "id": "s-081",
+    "profile": {
+      "destinationPostcode": "22617",
+      "serviceLevel": "STANDARD",
+      "weightGrams": 12000,
+      "customerTier": "BASIC"
+    }
+  },
+  {
+    "id": "s-082",
+    "profile": {
+      "destinationPostcode": "14801",
+      "serviceLevel": "STANDARD",
+      "weightGrams": 30000,
+      "customerTier": "BASIC"
+    }
+  },
+  {
+    "id": "s-083",
+    "profile": {
+      "destinationPostcode": "12690",
+      "serviceLevel": "EXPRESS",
+      "weightGrams": 400,
+      "customerTier": "BUSINESS"
+    }
+  },
+  {
+    "id": "s-084",
+    "profile": {
+      "destinationPostcode": "20319",
+      "serviceLevel": "STANDARD",
+      "weightGrams": 22000,
+      "customerTier": "PREMIUM"
+    }
+  },
+  {
+    "id": "s-085",
+    "profile": {
+      "destinationPostcode": "81572",
+      "serviceLevel": "STANDARD",
+      "weightGrams": 22000,
+      "customerTier": "BASIC"
+    }
+  },
+  {
+    "id": "s-086",
+    "profile": {
+      "destinationPostcode": "10868",
+      "serviceLevel": "STANDARD",
+      "weightGrams": 12000,
+      "customerTier": "BASIC"
+    }
+  },
+  {
+    "id": "s-087",
+    "profile": {
+      "destinationPostcode": "90931",
+      "serviceLevel": "ECONOMY",
+      "weightGrams": 400,
+      "customerTier": "BASIC"
+    }
+  },
+  {
+    "id": "s-088",
+    "profile": {
+      "destinationPostcode": "70516",
+      "serviceLevel": "EXPRESS",
+      "weightGrams": 12000,
+      "customerTier": "BASIC"
+    }
+  },
+  {
+    "id": "s-089",
+    "profile": {
+      "destinationPostcode": "70083",
+      "serviceLevel": "EXPRESS",
+      "weightGrams": 2500,
+      "customerTier": "BASIC"
+    }
+  },
+  {
+    "id": "s-090",
+    "profile": {
+      "destinationPostcode": "40188",
+      "serviceLevel": "ECONOMY",
+      "weightGrams": 22000,
+      "customerTier": "BASIC"
+    }
+  },
+  {
+    "id": "s-091",
+    "profile": {
+      "destinationPostcode": "80741",
+      "serviceLevel": "STANDARD",
+      "weightGrams": 900,
+      "customerTier": "BASIC"
+    }
+  },
+  {
+    "id": "s-092",
+    "profile": {
+      "destinationPostcode": "14776",
+      "serviceLevel": "ECONOMY",
+      "weightGrams": 5000,
+      "customerTier": "BUSINESS"
+    }
+  },
+  {
+    "id": "s-093",
+    "profile": {
+      "destinationPostcode": "81093",
+      "serviceLevel": "ECONOMY",
+      "weightGrams": 12000,
+      "customerTier": "BASIC"
+    }
+  },
+  {
+    "id": "s-094",
+    "profile": {
+      "destinationPostcode": "22449",
+      "serviceLevel": "STANDARD",
+      "weightGrams": 400,
+      "customerTier": "PREMIUM"
+    }
+  },
+  {
+    "id": "s-095",
+    "profile": {
+      "destinationPostcode": "10741",
+      "serviceLevel": "STANDARD",
+      "weightGrams": 22000,
+      "customerTier": "PREMIUM"
+    }
+  },
+  {
+    "id": "s-096",
+    "profile": {
+      "destinationPostcode": "20847",
+      "serviceLevel": "EXPRESS",
+      "weightGrams": 5000,
+      "customerTier": "BASIC"
+    }
+  },
+  {
+    "id": "s-097",
+    "profile": {
+      "destinationPostcode": "50341",
+      "serviceLevel": "EXPRESS",
+      "weightGrams": 400,
+      "customerTier": "BUSINESS"
+    }
+  },
+  {
+    "id": "s-098",
+    "profile": {
+      "destinationPostcode": "40187",
+      "serviceLevel": "STANDARD",
+      "weightGrams": 5000,
+      "customerTier": "BASIC"
+    }
+  },
+  {
+    "id": "s-099",
+    "profile": {
+      "destinationPostcode": "14191",
+      "serviceLevel": "STANDARD",
+      "weightGrams": 22000,
+      "customerTier": "BUSINESS"
+    }
+  },
+  {
+    "id": "s-100",
+    "profile": {
+      "destinationPostcode": "22298",
+      "serviceLevel": "STANDARD",
+      "weightGrams": 400,
+      "customerTier": "BUSINESS"
+    }
+  },
+  {
+    "id": "s-101",
+    "profile": {
+      "destinationPostcode": "14776",
+      "serviceLevel": "ECONOMY",
+      "weightGrams": 900,
+      "customerTier": "BASIC"
+    }
+  },
+  {
+    "id": "s-102",
+    "profile": {
+      "destinationPostcode": "40764",
+      "serviceLevel": "STANDARD",
+      "weightGrams": 5000,
+      "customerTier": "BUSINESS"
+    }
+  },
+  {
+    "id": "s-103",
+    "profile": {
+      "destinationPostcode": "28515",
+      "serviceLevel": "ECONOMY",
+      "weightGrams": 2500,
+      "customerTier": "BUSINESS"
+    }
+  },
+  {
+    "id": "s-104",
+    "profile": {
+      "destinationPostcode": "90613",
+      "serviceLevel": "ECONOMY",
+      "weightGrams": 22000,
+      "customerTier": "BUSINESS"
+    }
+  },
+  {
+    "id": "s-105",
+    "profile": {
+      "destinationPostcode": "20516",
+      "serviceLevel": "EXPRESS",
+      "weightGrams": 30000,
+      "customerTier": "BASIC"
+    }
+  },
+  {
+    "id": "s-106",
+    "profile": {
+      "destinationPostcode": "22640",
+      "serviceLevel": "STANDARD",
+      "weightGrams": 400,
+      "customerTier": "BASIC"
+    }
+  },
+  {
+    "id": "s-107",
+    "profile": {
+      "destinationPostcode": "90423",
+      "serviceLevel": "STANDARD",
+      "weightGrams": 5000,
+      "customerTier": "BUSINESS"
+    }
+  },
+  {
+    "id": "s-108",
+    "profile": {
+      "destinationPostcode": "14560",
+      "serviceLevel": "EXPRESS",
+      "weightGrams": 12000,
+      "customerTier": "BASIC"
+    }
+  },
+  {
+    "id": "s-109",
+    "profile": {
+      "destinationPostcode": "80106",
+      "serviceLevel": "EXPRESS",
+      "weightGrams": 12000,
+      "customerTier": "BASIC"
+    }
+  },
+  {
+    "id": "s-110",
+    "profile": {
+      "destinationPostcode": "70470",
+      "serviceLevel": "STANDARD",
+      "weightGrams": 900,
+      "customerTier": "PREMIUM"
+    }
+  },
+  {
+    "id": "s-111",
+    "profile": {
+      "destinationPostcode": "28544",
+      "serviceLevel": "STANDARD",
+      "weightGrams": 22000,
+      "customerTier": "BUSINESS"
+    }
+  },
+  {
+    "id": "s-112",
+    "profile": {
+      "destinationPostcode": "28347",
+      "serviceLevel": "EXPRESS",
+      "weightGrams": 400,
+      "customerTier": "BASIC"
+    }
+  },
+  {
+    "id": "s-113",
+    "profile": {
+      "destinationPostcode": "70213",
+      "serviceLevel": "EXPRESS",
+      "weightGrams": 12000,
+      "customerTier": "BASIC"
+    }
+  },
+  {
+    "id": "s-114",
+    "profile": {
+      "destinationPostcode": "40576",
+      "serviceLevel": "STANDARD",
+      "weightGrams": 12000,
+      "customerTier": "BASIC"
+    }
+  },
+  {
+    "id": "s-115",
+    "profile": {
+      "destinationPostcode": "14125",
+      "serviceLevel": "ECONOMY",
+      "weightGrams": 2500,
+      "customerTier": "BASIC"
+    }
+  },
+  {
+    "id": "s-116",
+    "profile": {
+      "destinationPostcode": "22493",
+      "serviceLevel": "ECONOMY",
+      "weightGrams": 22000,
+      "customerTier": "PREMIUM"
+    }
+  },
+  {
+    "id": "s-117",
+    "profile": {
+      "destinationPostcode": "28683",
+      "serviceLevel": "EXPRESS",
+      "weightGrams": 2500,
+      "customerTier": "BUSINESS"
+    }
+  },
+  {
+    "id": "s-118",
+    "profile": {
+      "destinationPostcode": "81074",
+      "serviceLevel": "STANDARD",
+      "weightGrams": 900,
+      "customerTier": "BASIC"
+    }
+  },
+  {
+    "id": "s-119",
+    "profile": {
+      "destinationPostcode": "10436",
+      "serviceLevel": "EXPRESS",
+      "weightGrams": 22000,
+      "customerTier": "PREMIUM"
+    }
+  },
+  {
+    "id": "s-120",
+    "profile": {
+      "destinationPostcode": "28402",
+      "serviceLevel": "ECONOMY",
+      "weightGrams": 5000,
+      "customerTier": "PREMIUM"
+    }
+  }
+]

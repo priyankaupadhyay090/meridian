@@ -1,0 +1,11 @@
+.gradle/
+build/
+out/
+.idea/
+*.iml
+.DS_Store
+.env
+.env.*
+!.env.example
+web/public/samples/*-business-contract.pdf
+docs*

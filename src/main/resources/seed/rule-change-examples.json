@@ -1,0 +1,117 @@
+[
+  {
+    "id": "hamburg-dpd",
+    "title": "Move Hamburg to DPD Classic",
+    "description": "Parcels to postcodes 20… and 22… go with DPD Classic instead of DHL Paket.",
+    "remove": [],
+    "add": [
+      {
+        "id": "r-20-dpd",
+        "match": {
+          "destinationPrefix": "20",
+          "serviceLevel": null,
+          "weightBand": null,
+          "customerTier": null
+        },
+        "priority": 400,
+        "carrierService": "DPD_CLASSIC"
+      },
+      {
+        "id": "r-22-dpd",
+        "match": {
+          "destinationPrefix": "22",
+          "serviceLevel": null,
+          "weightBand": null,
+          "customerTier": null
+        },
+        "priority": 400,
+        "carrierService": "DPD_CLASSIC"
+      }
+    ]
+  },
+  {
+    "id": "berlin-express",
+    "title": "Berlin express with GLS",
+    "description": "Express parcels to postcodes 12… go with GLS Express.",
+    "remove": [],
+    "add": [
+      {
+        "id": "r-12-express",
+        "match": {
+          "destinationPrefix": "12",
+          "serviceLevel": "EXPRESS",
+          "weightBand": null,
+          "customerTier": null
+        },
+        "priority": 50,
+        "carrierService": "GLS_EXPRESS"
+      }
+    ]
+  },
+  {
+    "id": "economy-hermes",
+    "title": "Economy parcels with Hermes",
+    "description": "Economy parcels to postcodes 5… go with Hermes Paket.",
+    "remove": [],
+    "add": [
+      {
+        "id": "r-5-economy",
+        "match": {
+          "destinationPrefix": "5",
+          "serviceLevel": "ECONOMY",
+          "weightBand": null,
+          "customerTier": null
+        },
+        "priority": 100,
+        "carrierService": "HERMES_PAKET"
+      }
+    ]
+  },
+  {
+    "id": "clash",
+    "title": "A rule that clashes",
+    "description": "A second rule for postcodes 2… with the same priority as the existing one. The test run fails.",
+    "remove": [],
+    "add": [
+      {
+        "id": "r-2-dpd",
+        "match": {
+          "destinationPrefix": "2",
+          "serviceLevel": null,
+          "weightBand": null,
+          "customerTier": null
+        },
+        "priority": 500,
+        "carrierService": "DPD_CLASSIC"
+      }
+    ]
+  },
+  {
+    "id": "gap",
+    "title": "A region left without a courier",
+    "description": "The rule for postcodes 4… is removed by mistake. The test run shows the parcels that no longer have a courier.",
+    "remove": [
+      "r-4-standard"
+    ],
+    "add": []
+  },
+  {
+    "id": "invalid",
+    "title": "A broken rule",
+    "description": "A rule with a postcode prefix that is not a number. It is refused before the test run.",
+    "remove": [],
+    "add": [
+      {
+        "id": "r-bad",
+        "match": {
+          "destinationPrefix": "2A",
+          "serviceLevel": null,
+          "weightBand": null,
+          "customerTier": null
+        },
+        "priority": 100,
+        "carrierService": "DPD_CLASSIC"
+      }
+    ]
+  }
+]

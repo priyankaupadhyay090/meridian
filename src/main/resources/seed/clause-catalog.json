@@ -1,0 +1,18 @@
+{
+  "carrierServices": [
+    {"phrase": "hermes paket", "service": "HERMES_PAKET"},
+    {"phrase": "dpd express", "service": "DPD_EXPRESS"},
+    {"phrase": "dpd classic", "service": "DPD_CLASSIC"},
+    {"phrase": "dhl express", "service": "DHL_EXPRESS"},
+    {"phrase": "dhl paket", "service": "DHL_PAKET"},
+    {"phrase": "dhl päckchen", "service": "DHL_PAECKCHEN"},
+    {"phrase": "gls express", "service": "GLS_EXPRESS"}
+  ],
+  "conditionMarkers": [
+    "if", "unless", "as long as", "provided that", "between", "during", "exceeds", "volume", "surcharge",
+    "falls", "sofern", "solange", "zwischen", "während", "übersteigt", "zuschlag", "menge"
+  ],
+  "instructionMarkers": [
+    "ignore", "instruction", "system reading", "add a rule", "anweisung", "ignoriere", "füge eine regel"
+  ]
+}
