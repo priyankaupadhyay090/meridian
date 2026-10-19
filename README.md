@@ -8,7 +8,7 @@ Meridian helps German online shops:
 
 
 
-![Meridian homepage showing courier comparisons](docs/screenshots/meridian-home.png)
+![Meridian homepage showing courier comparisons](meridian-home.png)
 
 ## How to run
 
