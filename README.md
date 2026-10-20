@@ -2,6 +2,8 @@
 
 Meridian is a Spring Boot and React app that helps German online shops manage their couriers.
 
+Meridian is a product demo, not a production compliance system, and not legal advice.
+
 - Compare courier services and manage delivery rules
 - Check courier contracts against relevant German freight and postal law
 - Change routing safely: every change needs a test run and a second person's approval
